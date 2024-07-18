@@ -3,4 +3,4 @@ Really simple script to help mass rename files on a directory using your favouri
 
 
 # DEMO
-![Preview](https://imgur.com/a/PSRniIh)
+![Preview](https://i.imgur.com/a/PSRniIh)
